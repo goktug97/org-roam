@@ -1,0 +1,40 @@
+\input texinfo    @c -*- texinfo -*-
+@c %**start of header
+@setfilename org-roam.info
+@settitle Org-roam User Manual
+@documentencoding UTF-8
+@documentlanguage en
+@c %**end of header
+
+@dircategory Emacs
+@direntry
+* org-roam: (org-roam). Rudimentary Roam Replica for Emacs.
+@end direntry
+
+@finalout
+@titlepage
+@title Org-roam User Manual
+@subtitle for version 1.1.1
+@author Jethro Kuan
+@end titlepage
+
+@contents
+
+@ifnottex
+@node Top
+@top Org-roam User Manual
+@end ifnottex
+
+@menu
+* Test 1::
+* Test 2::
+@end menu
+
+@node Test 1
+@chapter Test 1
+
+@node Test 2
+@chapter Test 2
+
+Emacs 28.0.50 (Org mode 9.3)
+@bye
